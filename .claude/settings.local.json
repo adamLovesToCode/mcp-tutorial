@@ -1,0 +1,6 @@
+{
+  "enabledMcpjsonServers": [
+    "testMcpServer"
+  ],
+  "enableAllProjectMcpServers": true
+}

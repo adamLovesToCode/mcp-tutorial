@@ -19,5 +19,19 @@
     "email": "charlie@test.com",
     "address": "123 Main St, Omaha, NE",
     "phone": "555-8765"
+  },
+  {
+    "id": 4,
+    "name": "Ada,",
+    "email": "adam.konopka.dev@gmial.com\n",
+    "address": "Hertzstr. 57",
+    "phone": "+4917663287538"
+  },
+  {
+    "id": 5,
+    "name": "Adameus",
+    "email": "Konopkanus",
+    "address": "adam.konopka2@gmx.de ",
+    "phone": "09098098"
   }
 ]
